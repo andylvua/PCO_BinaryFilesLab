@@ -1,0 +1,7 @@
+### CLion template
+
+# CLion project files
+.idea
+*.iml
+out
+gen
